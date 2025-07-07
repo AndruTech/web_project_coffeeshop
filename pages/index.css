@@ -10,7 +10,7 @@
   background-image: url(../images/background_header.svg);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: absolute;
+  background-position: center;
   box-sizing: border-box;
 }
 
