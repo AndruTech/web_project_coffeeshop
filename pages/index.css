@@ -308,7 +308,7 @@
   color: #838383;
 }
 
-.form__button--submit {
+.form__button {
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -328,16 +328,16 @@
   box-sizing: border-box;
 }
 
-.form__button--submit:enabled {
+.form__button:enabled {
   background-color: #2f80ed;
   font-weight: 600;
 }
 
-.form__button--submit:hover {
+.form__button:hover {
   opacity: 0.7;
 }
 
-.form__label--checkbox {
+.form__label-checkbox {
   display: flex;
   align-items: center;
   justify-items: center;
@@ -346,7 +346,7 @@
   gap: 12px;
 }
 
-.form__label--checkbox input[type="checkbox"] {
+.form__label-checkbox input[type="checkbox"] {
   width: 20px;
   height: 20px;
 }
