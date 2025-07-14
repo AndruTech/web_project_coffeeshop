@@ -11,3 +11,8 @@
   background-position: center;
   box-sizing: border-box;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
